@@ -1,8 +1,8 @@
-Author: Muhammad Maqsud Hossain 
-Title: Comparative analysis of Streptococcus uberis genomes
+Author: Richard E. Emes, Muhammad Maqsud Hossain 
+Title: Comparative analysis of Streptococcus uberis genomes reveals novel virulence factors
 
 Introduction: Streptococcus uberis is a bovine pathogen
-Data: To be published by the end of March 
+Data: To be published by the end of July instead of March
 Analysis: Whole genome assembly and comparative genomics
 Conclusion: Discovered novel virulence factors may get me a  nobel prize
 
